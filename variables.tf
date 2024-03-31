@@ -1,5 +1,5 @@
 variable "username" {
-  default = "admin"
+  default = "tsougang"
 }
 
 variable "password" {
@@ -52,7 +52,7 @@ variable "aws_test_instance_size" {
 }
 
 variable "azure_account_name" {
-  default = "azure-account"
+  default = "az-account"
 }
 
 variable "azure_subscription_id" {
