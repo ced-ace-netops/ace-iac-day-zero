@@ -1,5 +1,5 @@
 variable "username" {
-  default = "tsougang"
+  default = "Aviatrix_IaC"
 }
 
 variable "password" {
